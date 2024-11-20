@@ -3,8 +3,8 @@ import './globals.scss';
 import { Providers } from './providers';
 
 export const metadata = {
-  title: 'Carbon + Next13',
-  description: 'IBM Carbon Tutorial with NextJS 13',
+  title: 'TheFlightSims (powered by IBM Carbon System)',
+  description: 'TheFlightSims Home Website (powered by IBM Carbon System)',
 };
 
 export default function RootLayout({ children }) {
